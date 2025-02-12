@@ -25,13 +25,13 @@ p{
 
 
 .text {
-  font-size: 3em;  /* Smaller text size */
+  font-size: 3em;
   letter-spacing: 10px;
   white-space: nowrap;
   overflow: hidden;
-  animation: typing 2s steps(14);  /* Removed cursor animation */
+  animation: typing 2s steps(14);
 
-  font-family: 'Great vibes', initial;  /* Calligraphic font */
+  font-family: 'Great vibes', initial;
 }
 
 
